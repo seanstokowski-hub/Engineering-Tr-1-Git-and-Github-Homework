@@ -3,7 +3,7 @@ import './App.css'
 function App() {
   return (
     <div className="container">
-    <img className="scenery-img" src="/scenery.jpeg" alt="A beautiful scenery" />
+    <img className="scenery-img-styled" src="/scenery.jpeg" alt="A beautiful scenery" />
       <p className="description">
         A picture of Yosemite National Park's Half Dome, halfway through the 4 Mile Trail.
       </p>
